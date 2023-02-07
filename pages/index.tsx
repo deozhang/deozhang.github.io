@@ -31,6 +31,12 @@ export default function Home() {
             >
               Bilibili{' '}
             </a>
+            <a
+              href="https://github.com/zhangdistudio"
+              rel="noopener noreferrer"
+            >
+              Github{' '}
+            </a>
           </div>
         </div>
 
