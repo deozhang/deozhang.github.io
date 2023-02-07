@@ -57,15 +57,15 @@ git push -u origin main
 ```
 
 构建Web应用需要考虑的事情
-User Interface - how users will consume and interact with your application.
-Routing - how users navigate between different parts of your application.
-Data Fetching - where your data lives and how to get it.
-Rendering - when and where you render static or dynamic content.
-Integrations - what third-party services you use (CMS, auth, payments, etc) and how you connect to them.
-Infrastructure - where you deploy, store, and run your application code (Serverless, CDN, Edge, etc).
-Performance - how to optimize your application for end-users.
-Scalability - how your application adapts as your team, data, and traffic grow.
-Developer Experience - your team’s experience building and maintaining your application.
+- User Interface - how users will consume and interact with your application.
+- Routing - how users navigate between different parts of your application.
+- Data Fetching - where your data lives and how to get it.
+- Rendering - when and where you render static or dynamic content.
+- Integrations - what third-party services you use (CMS, auth, payments, etc) and how you connect to them.
+- Infrastructure - where you deploy, store, and run your application code (Serverless, CDN, Edge, etc).
+- Performance - how to optimize your application for end-users.
+- Scalability - how your application adapts as your team, data, and traffic grow.
+- Developer Experience - your team’s experience building and maintaining your application.
 ## NextJs
 Next.js是一个灵活的React框架，可以用来构建快速创造Web应用的区块。
 
