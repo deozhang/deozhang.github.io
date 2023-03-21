@@ -6,7 +6,6 @@ import Image from 'next/image'
 import profilePic from '/public/wechat.jpg'
 
 const inter = Inter({ subsets: ['latin'] })
-
 export default function Home() {
   return (
     <>
@@ -18,20 +17,21 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <Link href="/posts/page-test">page-test</Link>
-          <Link href="/posts/first-post">first-post</Link>
-          <a
-            href="https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1"
-            rel="noopener noreferrer"
-          >
-            Youtube{' '}
-          </a>
-          <a
-            href="https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1"
-            rel="noopener noreferrer"
-          >
-            Github{' '}
-          </a>
+            <Link href="/">Home</Link>
+          <div>
+            <a
+              href="https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1"
+              rel="noopener noreferrer"
+            >
+              Youtube{' '}
+            </a>
+            <a
+              href="https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1"
+              rel="noopener noreferrer"
+            >
+              Github{' '}
+            </a>
+          </div>
         </div>
         <div>
             <Image
@@ -41,7 +41,7 @@ export default function Home() {
                 height={470}
             />
         </div>
-        
+
         <div className={styles.grid}>
           <a
             href="https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1"

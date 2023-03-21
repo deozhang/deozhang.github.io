@@ -8,12 +8,11 @@ export default function FirstPost(){
                 <title>First Post</title>
             </Head>
             <h1>First Post</h1>
-            <a
-              href="/"
-              rel="noopener noreferrer"
-            >
-              主页{' '}
-            </a>
+            <ul>
+              <li>
+                <Link href="/">Home</Link>
+              </li>
+            </ul>
         </>
     )
 }
