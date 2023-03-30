@@ -52,7 +52,7 @@ export default function Home() {
                 width={20}
                 height={20}
               />
-            Youtube <span>-&gt;</span>
+            Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -71,7 +71,7 @@ export default function Home() {
                   width={20}
                   height={20}
               />
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -90,7 +90,7 @@ export default function Home() {
                 width={20}
                 height={20}
               />
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -109,7 +109,7 @@ export default function Home() {
                 width={20}
                 height={20}
               />
-              Github <span>-&gt;</span>
+              Github
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.

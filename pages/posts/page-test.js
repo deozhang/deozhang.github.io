@@ -24,7 +24,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -37,7 +37,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -50,7 +50,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
@@ -63,7 +63,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Youtube <span>-&gt;</span>
+              Youtube
             </h2>
             <p className={inter.className}>
               Welcome to my youtube channel.
